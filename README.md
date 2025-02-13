@@ -6,14 +6,13 @@ A full-stack Spring Boot & React application that fetches employee data from a R
 ✅ Compute annual salary (employee_salary * 12)
 ✅ Search employees by ID, name, or age range
 ✅ React frontend using Material-UI (MUI)
-✅ Spring Boot REST API with JPA & PostgreSQL
+✅ Spring Boot REST API
 ✅ Unit tests with JUnit 5 & Mockito
 ✅ Deployable as a WAR file on WildFly or Spring Boot container
 
 🛠️ Tech Stack
 Backend (Spring Boot)
 Spring Boot 3 (Java 17+)
-Spring Data JPA (PostgreSQL)
 Spring Web (RESTful API)
 JUnit 5 & Mockito (Testing)
 Maven (Build & Dependencies)
